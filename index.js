@@ -14,7 +14,23 @@ dotenv.config();
 const app = express();
 const PORT = Number(process.env.PORT) || 3001;
 
-app.use(cors());
+app.use(cors({
+
+    origin: [
+
+        'http://localhost:5500',
+
+        'http://localhost:3000',
+
+        'http://127.0.0.1:5500',
+
+        'https://sneakerhead-frontend-mu.vercel.app/' 
+
+    ],
+
+    credentials: true
+
+}));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
