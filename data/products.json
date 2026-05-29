@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air Jordan 1 Retro High OG",
+    "price": 4590000,
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg",
+    "category": "Basketball",
+    "brand": "Nike",
+    "gender": "Unisex",
+    "stock": 18,
+    "desc": "Giay co dien Jordan 1 phien ban High OG voi upper da cao cap."
+  },
+  {
+    "id": 2,
+    "name": "Adidas Ultraboost Light",
+    "price": 3890000,
+    "image": "https://images.pexels.com/photos/19090/pexels-photo.jpg",
+    "category": "Running",
+    "brand": "Adidas",
+    "gender": "Men",
+    "stock": 25,
+    "desc": "Dem Boost em va nhe cho chay bo hang ngay."
+  },
+  {
+    "id": 3,
+    "name": "New Balance 550",
+    "price": 2990000,
+    "image": "https://images.pexels.com/photos/1456706/pexels-photo-1456706.jpeg",
+    "category": "Lifestyle",
+    "brand": "New Balance",
+    "gender": "Unisex",
+    "stock": 14,
+    "desc": "Form giay retro bong ro, de phoi do streetwear."
+  },
+  {
+    "id": 4,
+    "name": "Puma RS-X Efekt",
+    "price": 2590000,
+    "image": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg",
+    "category": "Lifestyle",
+    "brand": "Puma",
+    "gender": "Women",
+    "stock": 20,
+    "desc": "Thiet ke chunky RS-X noi bat, dem EVA ben bi."
+  },
+  {
+    "id": 5,
+    "name": "Converse Chuck 70 High",
+    "price": 1890000,
+    "image": "https://images.pexels.com/photos/1240892/pexels-photo-1240892.jpeg",
+    "category": "Classic",
+    "brand": "Converse",
+    "gender": "Unisex",
+    "stock": 30,
+    "desc": "Phien ban nang cap cua Chuck Taylor voi canvas day va de em."
+  },
+  {
+    "id": 6,
+    "name": "Vans Old Skool",
+    "price": 1690000,
+    "image": "https://images.pexels.com/photos/1124465/pexels-photo-1124465.jpeg",
+    "category": "Skate",
+    "brand": "Vans",
+    "gender": "Unisex",
+    "stock": 28,
+    "desc": "Mau giay skate kinh dien voi side stripe dac trung."
+  },
+  {
+    "id": 7,
+    "name": "ASICS Gel-Kayano 30",
+    "price": 4290000,
+    "image": "https://images.pexels.com/photos/6050917/pexels-photo-6050917.jpeg",
+    "category": "Running",
+    "brand": "ASICS",
+    "gender": "Men",
+    "stock": 16,
+    "desc": "Dong giay stability cho chay dai, ho tro ban chan toi uu."
+  },
+  {
+    "id": 8,
+    "name": "Nike Air Force 1 '07",
+    "price": 2890000,
+    "image": "https://images.pexels.com/photos/1464625/pexels-photo-1464625.jpeg",
+    "category": "Lifestyle",
+    "brand": "Nike",
+    "gender": "Women",
+    "stock": 22,
+    "desc": "Bieu tuong streetwear bat hu voi phan de Air em ai."
+  },
+  {
+    "id": 9,
+    "name": "Adidas Samba OG",
+    "price": 2490000,
+    "image": "https://images.pexels.com/photos/2529157/pexels-photo-2529157.jpeg",
+    "category": "Lifestyle",
+    "brand": "Adidas",
+    "gender": "Unisex",
+    "stock": 19,
+    "desc": "Phom thap co dien, chat da mem va de gum danh cho outfit toi gian."
+  },
+  {
+    "name": "Reebok Club C 85",
+    "category": "Jordan",
+    "brand": "Jordan",
+    "gender": "Nam",
+    "stock": 24,
+    "price": 2190000,
+    "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFwAXAMBIgACEQEDEQH/xAAbAAADAAMBAQAAAAAAAAAAAAABAgMABAYFB//EADUQAAEEAQIDBQQJBQAAAAAAAAEAAgMRBAUSIUFxEzFRYZGBodHSBhQiQnKTsbLwFSNDUmL/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQEBAQEBAAAAAAAAAAAAAAAAEQFRMf/aAAwDAQACEQMRAD8A+pBicM8lQNTBq0iQjHgiI1YNTBqURDEditSykojsSmMeC2KQpSjXLPJL2YWyWpS1WjXLEhZxW0WpC1BYBGkwamAUCgJqRARAQCllJqWUilpCk9LKQTIS0q0gQgkQlpVLUu1EVA8EaRATcB39yKFI0tfEy2TtN009e8clslzQLLgPaglPKyBm9915BNG9krQ+J7XtPcWm15WbkmfIAgNsYdu4cBfmf57EuKDFOZWENJP9zayg7zIs2kHs0spCKQSNBohxF0VSkE6QIVCECEEyEtKhCFIGWnrOQ/G06V0MbZJXDaxrnUCT4n1W6vM+kD9mJHYPGTl0KDmotVy8SFscukTsiYKaYAySh5U6x6JnfSSGvt4uaB/1iye/ktgStr73tbX6Je0ANg+gPwSb0qMOtYmZksibIe1cCA0xuaSBx5hbDfrUUhdFKx7Sb2SMqh4BzePqkE7Qap/U0qxv3d0jR7RaTd9LG/gZs0sj4n40kZaAd7iNrujh39KXpjL7OhJz4AE8fXmvBlxGTs2vkyL/ANopnM/aQCr4EcuIxzJZzO08AXxjdXmRV+io99k8b/vAHwKpy4LxXZTWCtwAHQLWk1EMcHRygEceBv1ASJXQlBTxphk48czQQHtujyVFFYtPVsR+Zi9nEWCRrtzd5Ne5bdooOZGjarY+zhV5ZD/kVBoufz+r/mn5V0axKRzh0TO8Mf8ANPyof0XO8ID0lPwXSIokcudHzh3QxnpIFN2k6pfDEhrxMw+C6tYlI5I6NrP+PHwx+LJI/RhVINC1UvBnOCG82h8jvfTV1KCUhIGGOFjCGDaKpgoDonWIWiltG1IEogoK2stIiCge1lpViBrWWlQKBrQJS2gUDWhaUkpbKD//2Q==",
+    "desc": "REEBOK SHOES MADE FOR A MORE SUSTAINABLE FUTURE",
+    "id": 10
+  }
+]

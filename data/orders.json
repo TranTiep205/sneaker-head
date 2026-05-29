@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1001,
+    "userId": 2,
+    "items": [
+      { "productId": 1, "name": "Nike Air Jordan 1 Retro High OG", "qty": 1, "price": 4590000 },
+      { "productId": 6, "name": "Vans Old Skool", "qty": 1, "price": 1690000 }
+    ],
+    "total": 6280000,
+    "status": "pending",
+    "createdAt": "2026-05-01T09:15:00Z"
+  },
+  {
+    "id": 1002,
+    "userId": 3,
+    "items": [
+      { "productId": 2, "name": "Adidas Ultraboost Light", "qty": 1, "price": 3890000 }
+    ],
+    "total": 3890000,
+    "status": "shipping",
+    "createdAt": "2026-05-03T14:20:00Z"
+  },
+  {
+    "id": 1003,
+    "userId": 2,
+    "items": [
+      { "productId": 5, "name": "Converse Chuck 70 High", "qty": 2, "price": 1890000 }
+    ],
+    "total": 3780000,
+    "status": "completed",
+    "createdAt": "2026-05-05T11:45:00Z"
+  },
+  {
+    "id": 1004,
+    "userId": 3,
+    "items": [
+      { "productId": 8, "name": "Nike Air Force 1 '07", "qty": 1, "price": 2890000 },
+      { "productId": 9, "name": "Adidas Samba OG", "qty": 1, "price": 2490000 }
+    ],
+    "total": 5380000,
+    "status": "cancelled",
+    "createdAt": "2026-05-06T08:05:00Z"
+  }
+]

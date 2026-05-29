@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Admin SneakerHead",
+    "email": "admin@sneakerhead.local",
+    "password": "admin123",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "name": "Nguyen Van A",
+    "email": "customer1@sneakerhead.local",
+    "password": "customer123",
+    "role": "customer"
+  },
+  {
+    "id": 3,
+    "name": "Tran Thi B",
+    "email": "customer2@sneakerhead.local",
+    "password": "customer123",
+    "role": "customer"
+  }
+]
